@@ -1,0 +1,10 @@
+Code Reviews:
+
+1. Adam Gapinski: https://github.com/AGHPythonCourse2017/zad2-AdamGapinski/pull/1#pullrequestreview-41948391
+
+2. Klaudia Knafel: https://github.com/AGHPythonCourse2017/zad2-kknafel/pull/1#pullrequestreview-41950846
+
+3. Pawel Taborowski: https://github.com/AGHPythonCourse2017/zad2-Peantab/pull/1#pullrequestreview-42010034
+
+4. Jakub Jungiewicz: https://github.com/AGHPythonCourse2017/zad2-Kubster96/pull/1#pullrequestreview-42016042
+
