@@ -16,7 +16,7 @@ def get_content_from_url(item):
     url = url_part1+q+url_part2
     try:
         headers = {'Ocp-Apim-Subscription-Key':
-                   'a560d513888845c9b57608a7be5069a5'}
+                   'code'}
 
         r = requests.get(url, headers=headers)
         data = r.text
